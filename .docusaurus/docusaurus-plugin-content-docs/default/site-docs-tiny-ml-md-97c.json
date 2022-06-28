@@ -1,0 +1,20 @@
+{
+  "unversionedId": "TinyML",
+  "id": "TinyML",
+  "title": "TinyML",
+  "description": "Introduction",
+  "source": "@site/docs/TinyML.md",
+  "sourceDirName": ".",
+  "slug": "/TinyML",
+  "permalink": "/docs/TinyML",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/TinyML.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}
