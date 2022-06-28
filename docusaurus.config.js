@@ -9,7 +9,7 @@ const config = {
   title: 'Accomdemy - Learning Groups',
   tagline: 'Accomdemy = Accompany + Academy',
   url: 'https://accomdemy.github.io/Learn',
-  baseUrl: '/',
+  baseUrl: '/Learn/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
