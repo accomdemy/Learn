@@ -6,7 +6,7 @@
 export default {
   "title": "Accomdemy - Learning Groups",
   "tagline": "Accomdemy = Accompany + Academy",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://accomdemy.github.io/Learn",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

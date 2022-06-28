@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Accomdemy - Learning Groups',
   tagline: 'Accomdemy = Accompany + Academy',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://accomdemy.github.io/Learn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
