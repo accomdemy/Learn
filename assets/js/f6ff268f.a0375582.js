@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklearn=self.webpackChunklearn||[]).push([[4965],{8171:e=>{e.exports=JSON.parse('{"permalink":"/Learn/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
