@@ -30,7 +30,7 @@ export default {
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/accomdemy/Learn"
         },
         "theme": {
           "customCss": "/Users/salman/Documents/Accomdemy/GH/Learn/src/css/custom.css"
