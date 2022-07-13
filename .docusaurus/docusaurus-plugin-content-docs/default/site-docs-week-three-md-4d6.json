@@ -1,0 +1,27 @@
+{
+  "unversionedId": "weekThree",
+  "id": "weekThree",
+  "title": "Week 3 : TinyML- 0x02",
+  "description": "Required Hardware",
+  "source": "@site/docs/weekThree.md",
+  "sourceDirName": ".",
+  "slug": "/weekThree",
+  "permalink": "/Learn/docs/weekThree",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/weekThree.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 2 : TinyML- 0x01",
+    "permalink": "/Learn/docs/weekTwo"
+  },
+  "next": {
+    "title": "Week 4 : TinyML- 0x03",
+    "permalink": "/Learn/docs/weekFour"
+  }
+}

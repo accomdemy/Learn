@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Week 1/create-a-blog-post",
+  "id": "Week 1/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/Week 1/create-a-blog-post.md",
+  "sourceDirName": "Week 1",
+  "slug": "/Week 1/create-a-blog-post",
+  "permalink": "/Learn/docs/Week 1/create-a-blog-post",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Week 1/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/Learn/docs/Week 1/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/Learn/docs/Week 1/markdown-features"
+  }
+}

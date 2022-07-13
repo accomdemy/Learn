@@ -1,0 +1,27 @@
+{
+  "unversionedId": "weekFour",
+  "id": "weekFour",
+  "title": "Week 4 : TinyML- 0x03",
+  "description": "In the 4th week, the participants will work on a project to process the speech and based on that control the LEDs.",
+  "source": "@site/docs/weekFour.md",
+  "sourceDirName": ".",
+  "slug": "/weekFour",
+  "permalink": "/Learn/docs/weekFour",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/weekFour.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 3 : TinyML- 0x02",
+    "permalink": "/Learn/docs/weekThree"
+  },
+  "next": {
+    "title": "Week 5 : TinyML- 0x04",
+    "permalink": "/Learn/docs/weekFive"
+  }
+}

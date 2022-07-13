@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Introduction to Learing Session",
+  "description": "Introduction to Learing Session.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -13,11 +13,13 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "description": "Introduction to Learing Session.",
+    "id": "intro"
   },
   "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/Learn/docs/category/tutorial---basics"
+  "previous": {
+    "title": "Week One",
+    "permalink": "/Learn/docs/WeekOne"
   }
 }

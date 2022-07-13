@@ -10,143 +10,77 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/Learn/docs/intro",
-        "docId": "intro"
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Basics",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Create a Page",
-            "href": "/Learn/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
-          },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/Learn/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/Learn/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/Learn/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/Learn/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/Learn/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
-          }
-        ],
-        "href": "/Learn/docs/category/tutorial---basics"
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Extras",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/Learn/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/Learn/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site"
-          }
-        ],
-        "href": "/Learn/docs/category/tutorial---extras"
+        "label": "Introduction to Learing Session 😎",
+        "href": "/Learn/docs/TinyML",
+        "docId": "TinyML"
       },
       {
         "type": "link",
-        "label": "TinyML",
-        "href": "/Learn/docs/TinyML",
-        "docId": "TinyML"
+        "label": "Week 1 : TinyML- 0x00",
+        "href": "/Learn/docs/weekOne",
+        "docId": "weekOne"
+      },
+      {
+        "type": "link",
+        "label": "Week 2 : TinyML- 0x01",
+        "href": "/Learn/docs/weekTwo",
+        "docId": "weekTwo"
+      },
+      {
+        "type": "link",
+        "label": "Week 3 : TinyML- 0x02",
+        "href": "/Learn/docs/weekThree",
+        "docId": "weekThree"
+      },
+      {
+        "type": "link",
+        "label": "Week 4 : TinyML- 0x03",
+        "href": "/Learn/docs/weekFour",
+        "docId": "weekFour"
+      },
+      {
+        "type": "link",
+        "label": "Week 5 : TinyML- 0x04",
+        "href": "/Learn/docs/weekFive",
+        "docId": "weekFive"
       }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
-      "sidebar": "tutorialSidebar"
-    },
     "TinyML": {
       "id": "TinyML",
-      "title": "TinyML",
-      "description": "Introduction",
+      "title": "Introduction to Learing Session 😎",
+      "description": "Introduction to Learing Session.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+    "weekFive": {
+      "id": "weekFive",
+      "title": "Week 5 : TinyML- 0x04",
+      "description": "TBD",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+    "weekFour": {
+      "id": "weekFour",
+      "title": "Week 4 : TinyML- 0x03",
+      "description": "In the 4th week, the participants will work on a project to process the speech and based on that control the LEDs.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
+    "weekOne": {
+      "id": "weekOne",
+      "title": "Week 1 : TinyML- 0x00",
+      "description": "In the first week, we will go to take a look at the tinyML and its applications.  Introduction Slide",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+    "weekThree": {
+      "id": "weekThree",
+      "title": "Week 3 : TinyML- 0x02",
+      "description": "Required Hardware",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "weekTwo": {
+      "id": "weekTwo",
+      "title": "Week 2 : TinyML- 0x01",
+      "description": "* 1 x Dev Board (TBD)",
       "sidebar": "tutorialSidebar"
     }
   }

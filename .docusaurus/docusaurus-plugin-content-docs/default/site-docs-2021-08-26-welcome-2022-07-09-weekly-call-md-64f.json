@@ -1,0 +1,43 @@
+{
+  "unversionedId": "2021-08-26-welcome/2022-07-09-weeklyCall",
+  "id": "2021-08-26-welcome/2022-07-09-weeklyCall",
+  "title": "Welcome",
+  "description": "The Weekly call started by I'm introduciing the ESP-C3 Dev module from DFRobot, And following we had great discussions on LoRa, Thread and Matter protocols.",
+  "source": "@site/docs/2021-08-26-welcome/2022-07-09-weeklyCall.md",
+  "sourceDirName": "2021-08-26-welcome",
+  "slug": "/2021-08-26-welcome/welcome",
+  "permalink": "/Learn/docs/2021-08-26-welcome/welcome",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021-08-26-welcome/2022-07-09-weeklyCall.md",
+  "tags": [
+    {
+      "label": "Weekly call",
+      "permalink": "/Learn/docs/tags/weekly-call"
+    },
+    {
+      "label": "Community",
+      "permalink": "/Learn/docs/tags/community"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "Salman"
+    ],
+    "tags": [
+      "Weekly call",
+      "Community"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MDX Blog Post",
+    "permalink": "/Learn/docs/mdx-blog-post"
+  },
+  "next": {
+    "title": "Week 1",
+    "permalink": "/Learn/docs/Week 1"
+  }
+}

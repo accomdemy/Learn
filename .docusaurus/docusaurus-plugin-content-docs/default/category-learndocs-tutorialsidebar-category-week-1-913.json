@@ -1,0 +1,12 @@
+{
+  "title": "Week 1",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/week-1",
+  "permalink": "/Learn/docs/category/week-1",
+  "navigation": {
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/Learn/docs/Week 1/create-a-page"
+    }
+  }
+}

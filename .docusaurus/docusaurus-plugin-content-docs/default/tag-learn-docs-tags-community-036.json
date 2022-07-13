@@ -1,0 +1,14 @@
+{
+  "label": "Community",
+  "permalink": "/Learn/docs/tags/community",
+  "allTagsPath": "/Learn/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "2021-08-26-welcome/2022-07-09-weeklyCall",
+      "title": "Welcome",
+      "description": "The Weekly call started by I'm introduciing the ESP-C3 Dev module from DFRobot, And following we had great discussions on LoRa, Thread and Matter protocols.",
+      "permalink": "/Learn/docs/2021-08-26-welcome/welcome"
+    }
+  ]
+}

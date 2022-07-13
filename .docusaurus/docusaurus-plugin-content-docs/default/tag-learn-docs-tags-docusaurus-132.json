@@ -1,0 +1,14 @@
+{
+  "label": "docusaurus",
+  "permalink": "/Learn/docs/tags/docusaurus",
+  "allTagsPath": "/Learn/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "2021-08-01-mdx-blog-post",
+      "title": "MDX Blog Post",
+      "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+      "permalink": "/Learn/docs/mdx-blog-post"
+    }
+  ]
+}

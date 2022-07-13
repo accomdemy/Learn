@@ -1,0 +1,27 @@
+{
+  "unversionedId": "weekOne copy",
+  "id": "weekOne copy",
+  "title": "Week 1 : TinyML- 0x00",
+  "description": "In the first week, we will go to take a look at the tinyML and its applications.  Introduction Slide",
+  "source": "@site/docs/weekOne copy.md",
+  "sourceDirName": ".",
+  "slug": "/weekOne copy",
+  "permalink": "/Learn/docs/weekOne copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/weekOne copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Learing Session",
+    "permalink": "/Learn/docs/TinyML"
+  },
+  "next": {
+    "title": "Week 1 : TinyML- 0x00",
+    "permalink": "/Learn/docs/weekOne"
+  }
+}

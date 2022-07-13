@@ -1,0 +1,38 @@
+{
+  "unversionedId": "2021-08-01-mdx-blog-post",
+  "id": "2021-08-01-mdx-blog-post",
+  "title": "MDX Blog Post",
+  "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+  "source": "@site/docs/2021-08-01-mdx-blog-post.mdx",
+  "sourceDirName": ".",
+  "slug": "/mdx-blog-post",
+  "permalink": "/Learn/docs/mdx-blog-post",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2021-08-01-mdx-blog-post.mdx",
+  "tags": [
+    {
+      "label": "docusaurus",
+      "permalink": "/Learn/docs/tags/docusaurus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "mdx-blog-post",
+    "title": "MDX Blog Post",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/Learn/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Welcome",
+    "permalink": "/Learn/docs/2021-08-26-welcome/welcome"
+  }
+}
