@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Learning Groups`}
+      description="Accomdemy is a self-learning community formed by a group of partners from the science and technology circle, the innovation circle, and the education circle. ">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

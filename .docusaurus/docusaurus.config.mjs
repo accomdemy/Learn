@@ -54,7 +54,7 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "Blog 📝",
           "position": "left"
         },
         {
