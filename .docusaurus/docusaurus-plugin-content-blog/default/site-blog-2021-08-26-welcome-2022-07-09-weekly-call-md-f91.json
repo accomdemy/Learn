@@ -1,0 +1,41 @@
+{
+  "permalink": "/Learn/blog/welcome",
+  "editUrl": "https://github.com/accomdemy/Learn/blog/2021-08-26-welcome/2022-07-09-WeeklyCall.md",
+  "source": "@site/blog/2021-08-26-welcome/2022-07-09-WeeklyCall.md",
+  "title": "Welcome",
+  "description": "Docusaurus blogging features are powered by the blog plugin.",
+  "date": "2022-07-09T00:00:00.000Z",
+  "formattedDate": "July 9, 2022",
+  "tags": [
+    {
+      "label": "Weekly call",
+      "permalink": "/Learn/blog/tags/weekly-call"
+    },
+    {
+      "label": "Community",
+      "permalink": "/Learn/blog/tags/community"
+    }
+  ],
+  "readingTime": 0.405,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Salman Faris",
+      "title": "Community Memeber",
+      "url": "https://github.com/salmanfarisvp",
+      "imageURL": "https://avatars.githubusercontent.com/u/11945360?s=400&u=bd1276417a3266f04915764349ef786a953efa17&v=4",
+      "key": "Salman"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "Salman"
+    ],
+    "tags": [
+      "Weekly call",
+      "Community"
+    ]
+  }
+}

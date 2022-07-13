@@ -42,7 +42,7 @@
       "plugin": "plugin---learn-docusaurus-debug-153-8ec"
     }
   },
-  "/Learn/blog-165": {
+  "/Learn/blog-011": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---learn-blog-056-496"
@@ -50,19 +50,18 @@
     "sidebar": "sidebar---learn-blog-814-4a9",
     "items": [
       {
-        "content": "content---learn-blog-766-5f8"
-      },
-      {
-        "content": "content---learn-blogf-4-f-39b"
-      },
-      {
-        "content": "content---learn-blog-871-581"
-      },
-      {
-        "content": "content---learn-blog-925-ffe"
+        "content": "content---learn-blogea-5-89e"
       }
     ],
     "metadata": "metadata---learn-bloge-65-62b"
+  },
+  "/Learn/blog/2022-07-09-weeklyCall.md-985": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---learn-blog-056-496"
+    },
+    "sidebar": "sidebar---learn-blog-814-4a9",
+    "content": "content---learn-blog-welcome-661-269"
   },
   "/Learn/blog/archive-387": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
@@ -70,30 +69,6 @@
       "plugin": "plugin---learn-blog-056-496"
     },
     "archive": "archive---learn-blog-archive-0-d-6-bd7"
-  },
-  "/Learn/blog/first-blog-post-a59": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "content": "content---learn-blog-first-blog-poste-27-242"
-  },
-  "/Learn/blog/long-blog-post-537": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "content": "content---learn-blog-long-blog-post-736-34a"
-  },
-  "/Learn/blog/mdx-blog-post-a82": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "content": "content---learn-blog-mdx-blog-post-593-81c"
   },
   "/Learn/blog/tags-740": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
@@ -103,7 +78,7 @@
     "sidebar": "sidebar---learn-blog-814-4a9",
     "tags": "tags---learn-blog-tags-3-ba-5f6"
   },
-  "/Learn/blog/tags/docusaurus-0a3": {
+  "/Learn/blog/tags/community-de1": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---learn-blog-056-496"
@@ -111,22 +86,13 @@
     "sidebar": "sidebar---learn-blog-814-4a9",
     "items": [
       {
-        "content": "content---learn-blog-766-5f8"
-      },
-      {
-        "content": "content---learn-blogf-4-f-39b"
-      },
-      {
-        "content": "content---learn-blog-871-581"
-      },
-      {
-        "content": "content---learn-blog-925-ffe"
+        "content": "content---learn-blogea-5-89e"
       }
     ],
-    "tag": "tag---learn-blog-tags-docusauruse-68-0d5",
-    "listMetadata": "listMetadata---learn-blog-tags-docusaurusf-6-f-fe4"
+    "tag": "tag---learn-blog-tags-community-083-ad9",
+    "listMetadata": "listMetadata---learn-blog-tags-community-4-be-2d9"
   },
-  "/Learn/blog/tags/facebook-b25": {
+  "/Learn/blog/tags/weekly-call-82f": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---learn-blog-056-496"
@@ -134,50 +100,11 @@
     "sidebar": "sidebar---learn-blog-814-4a9",
     "items": [
       {
-        "content": "content---learn-blog-766-5f8"
+        "content": "content---learn-blogea-5-89e"
       }
     ],
-    "tag": "tag---learn-blog-tags-facebook-289-191",
-    "listMetadata": "listMetadata---learn-blog-tags-facebook-046-0e9"
-  },
-  "/Learn/blog/tags/hello-f7c": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "items": [
-      {
-        "content": "content---learn-blog-766-5f8"
-      },
-      {
-        "content": "content---learn-blog-871-581"
-      }
-    ],
-    "tag": "tag---learn-blog-tags-hello-330-599",
-    "listMetadata": "listMetadata---learn-blog-tags-hello-36-a-5a7"
-  },
-  "/Learn/blog/tags/hola-54b": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "items": [
-      {
-        "content": "content---learn-blog-925-ffe"
-      }
-    ],
-    "tag": "tag---learn-blog-tags-hola-163-ef5",
-    "listMetadata": "listMetadata---learn-blog-tags-holaf-93-7cf"
-  },
-  "/Learn/blog/welcome-a1b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "content": "content---learn-blog-welcomed-9-f-4d3"
+    "tag": "tag---learn-blog-tags-weekly-callee-5-a09",
+    "listMetadata": "listMetadata---learn-blog-tags-weekly-call-382-bc3"
   },
   "/Learn/markdown-page-0e0": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",

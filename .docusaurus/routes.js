@@ -39,7 +39,12 @@ export default [
   },
   {
     path: '/Learn/blog',
-    component: ComponentCreator('/Learn/blog', '165'),
+    component: ComponentCreator('/Learn/blog', '011'),
+    exact: true
+  },
+  {
+    path: '/Learn/blog/2022-07-09-weeklyCall.md',
+    component: ComponentCreator('/Learn/blog/2022-07-09-weeklyCall.md', '985'),
     exact: true
   },
   {
@@ -48,48 +53,18 @@ export default [
     exact: true
   },
   {
-    path: '/Learn/blog/first-blog-post',
-    component: ComponentCreator('/Learn/blog/first-blog-post', 'a59'),
-    exact: true
-  },
-  {
-    path: '/Learn/blog/long-blog-post',
-    component: ComponentCreator('/Learn/blog/long-blog-post', '537'),
-    exact: true
-  },
-  {
-    path: '/Learn/blog/mdx-blog-post',
-    component: ComponentCreator('/Learn/blog/mdx-blog-post', 'a82'),
-    exact: true
-  },
-  {
     path: '/Learn/blog/tags',
     component: ComponentCreator('/Learn/blog/tags', '740'),
     exact: true
   },
   {
-    path: '/Learn/blog/tags/docusaurus',
-    component: ComponentCreator('/Learn/blog/tags/docusaurus', '0a3'),
+    path: '/Learn/blog/tags/community',
+    component: ComponentCreator('/Learn/blog/tags/community', 'de1'),
     exact: true
   },
   {
-    path: '/Learn/blog/tags/facebook',
-    component: ComponentCreator('/Learn/blog/tags/facebook', 'b25'),
-    exact: true
-  },
-  {
-    path: '/Learn/blog/tags/hello',
-    component: ComponentCreator('/Learn/blog/tags/hello', 'f7c'),
-    exact: true
-  },
-  {
-    path: '/Learn/blog/tags/hola',
-    component: ComponentCreator('/Learn/blog/tags/hola', '54b'),
-    exact: true
-  },
-  {
-    path: '/Learn/blog/welcome',
-    component: ComponentCreator('/Learn/blog/welcome', 'a1b'),
+    path: '/Learn/blog/tags/weekly-call',
+    component: ComponentCreator('/Learn/blog/tags/weekly-call', '82f'),
     exact: true
   },
   {

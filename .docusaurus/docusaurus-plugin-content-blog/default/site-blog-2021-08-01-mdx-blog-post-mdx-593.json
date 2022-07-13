@@ -36,9 +36,5 @@
   "prevItem": {
     "title": "Welcome",
     "permalink": "/Learn/blog/welcome"
-  },
-  "nextItem": {
-    "title": "Long Blog Post",
-    "permalink": "/Learn/blog/long-blog-post"
   }
 }

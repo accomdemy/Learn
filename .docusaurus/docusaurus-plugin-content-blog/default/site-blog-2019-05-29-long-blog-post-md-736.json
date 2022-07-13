@@ -39,9 +39,5 @@
   "prevItem": {
     "title": "MDX Blog Post",
     "permalink": "/Learn/blog/mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "First Blog Post",
-    "permalink": "/Learn/blog/first-blog-post"
   }
 }

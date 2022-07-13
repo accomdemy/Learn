@@ -1,22 +1,12 @@
 [
   {
-    "label": "facebook",
-    "permalink": "/Learn/blog/tags/facebook",
+    "label": "Weekly call",
+    "permalink": "/Learn/blog/tags/weekly-call",
     "count": 1
   },
   {
-    "label": "hello",
-    "permalink": "/Learn/blog/tags/hello",
-    "count": 2
-  },
-  {
-    "label": "docusaurus",
-    "permalink": "/Learn/blog/tags/docusaurus",
-    "count": 4
-  },
-  {
-    "label": "hola",
-    "permalink": "/Learn/blog/tags/hola",
+    "label": "Community",
+    "permalink": "/Learn/blog/tags/community",
     "count": 1
   }
 ]
