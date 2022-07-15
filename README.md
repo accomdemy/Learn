@@ -1,3 +1,5 @@
+[![Deploy to GitHub Pages](https://github.com/accomdemy/Learn/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/accomdemy/Learn/actions/workflows/deploy.yml)
+
 # Accomdemy Learn 
 
 Accomdemy is a self-learning community formed by a group of partners from the science and technology circle, the innovation circle, and the education circle. We are a non-profit organization focusing solely on furthering our learners’ understanding. 
