@@ -1,4 +1,4 @@
-[![Deploy to GitHub Pages](https://github.com/accomdemy/Learn/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/accomdemy/Learn/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/accomdemy/Learn/actions/workflows/deploy.yml/badge.svg)](https://github.com/accomdemy/Learn/actions/workflows/deploy.yml)
 
 # Accomdemy Learn 
 
