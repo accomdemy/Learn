@@ -73,7 +73,7 @@ export default {
           "items": [
             {
               "label": "TinyML 🧠",
-              "to": "/docs/intro"
+              "to": "/docs/TinyML"
             }
           ]
         },

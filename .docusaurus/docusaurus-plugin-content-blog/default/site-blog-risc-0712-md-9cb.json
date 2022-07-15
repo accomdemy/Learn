@@ -1,0 +1,50 @@
+{
+  "permalink": "/Learn/blog/risc0712.md",
+  "editUrl": "https://github.com/accomdemy/Learn/blog/risc0712.md",
+  "source": "@site/blog/risc0712.md",
+  "title": "從0到有製作自己的CPU！！ 第二周活動記錄 20220712",
+  "description": "[TOC]",
+  "date": "2022-07-12T15:40:17.000Z",
+  "formattedDate": "July 12, 2022",
+  "tags": [
+    {
+      "label": "RISCV",
+      "permalink": "/Learn/blog/tags/riscv"
+    },
+    {
+      "label": "伴學松",
+      "permalink": "/Learn/blog/tags/伴學松"
+    },
+    {
+      "label": "伴學松活動記錄",
+      "permalink": "/Learn/blog/tags/伴學松活動記錄"
+    }
+  ],
+  "readingTime": 2.34,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Salman Faris",
+      "title": "Community Member",
+      "url": "https://github.com/salmanfarisvp",
+      "imageURL": "https://avatars.githubusercontent.com/u/11945360?s=400&u=bd1276417a3266f04915764349ef786a953efa17&v=4",
+      "key": "Salman"
+    }
+  ],
+  "frontMatter": {
+    "slug": "risc0712.md",
+    "title": "從0到有製作自己的CPU！！ 第二周活動記錄 20220712",
+    "authors": [
+      "Salman"
+    ],
+    "tags": [
+      "RISCV",
+      "伴學松",
+      "伴學松活動記錄"
+    ]
+  },
+  "nextItem": {
+    "title": "July 9th Weekly Call",
+    "permalink": "/Learn/blog/2022-07-09-weeklyCall.md"
+  }
+}

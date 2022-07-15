@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'TinyML 🧠',
-                to: '/docs/intro',
+                to: '/docs/TinyML',
               },
             ],
           },

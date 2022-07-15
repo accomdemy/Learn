@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/Learn/blog',
-    component: ComponentCreator('/Learn/blog', '011'),
+    component: ComponentCreator('/Learn/blog', 'a15'),
     exact: true
   },
   {
@@ -53,6 +53,11 @@ export default [
     exact: true
   },
   {
+    path: '/Learn/blog/risc0712.md',
+    component: ComponentCreator('/Learn/blog/risc0712.md', 'd5b'),
+    exact: true
+  },
+  {
     path: '/Learn/blog/tags',
     component: ComponentCreator('/Learn/blog/tags', '740'),
     exact: true
@@ -63,8 +68,23 @@ export default [
     exact: true
   },
   {
+    path: '/Learn/blog/tags/riscv',
+    component: ComponentCreator('/Learn/blog/tags/riscv', 'dcc'),
+    exact: true
+  },
+  {
     path: '/Learn/blog/tags/weekly-call',
     component: ComponentCreator('/Learn/blog/tags/weekly-call', '82f'),
+    exact: true
+  },
+  {
+    path: '/Learn/blog/tags/伴學松',
+    component: ComponentCreator('/Learn/blog/tags/伴學松', '2f3'),
+    exact: true
+  },
+  {
+    path: '/Learn/blog/tags/伴學松活動記錄',
+    component: ComponentCreator('/Learn/blog/tags/伴學松活動記錄', '942'),
     exact: true
   },
   {

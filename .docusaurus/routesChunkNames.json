@@ -42,13 +42,16 @@
       "plugin": "plugin---learn-docusaurus-debug-153-8ec"
     }
   },
-  "/Learn/blog-011": {
+  "/Learn/blog-a15": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---learn-blog-056-496"
     },
     "sidebar": "sidebar---learn-blog-814-4a9",
     "items": [
+      {
+        "content": "content---learn-blogd-42-3d6"
+      },
       {
         "content": "content---learn-blogea-5-89e"
       }
@@ -69,6 +72,14 @@
       "plugin": "plugin---learn-blog-056-496"
     },
     "archive": "archive---learn-blog-archive-0-d-6-bd7"
+  },
+  "/Learn/blog/risc0712.md-d5b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---learn-blog-056-496"
+    },
+    "sidebar": "sidebar---learn-blog-814-4a9",
+    "content": "content---learn-blog-risc-0712-md-9-cb-4cb"
   },
   "/Learn/blog/tags-740": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
@@ -92,6 +103,20 @@
     "tag": "tag---learn-blog-tags-community-083-ad9",
     "listMetadata": "listMetadata---learn-blog-tags-community-4-be-2d9"
   },
+  "/Learn/blog/tags/riscv-dcc": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---learn-blog-056-496"
+    },
+    "sidebar": "sidebar---learn-blog-814-4a9",
+    "items": [
+      {
+        "content": "content---learn-blogd-42-3d6"
+      }
+    ],
+    "tag": "tag---learn-blog-tags-riscvde-4-894",
+    "listMetadata": "listMetadata---learn-blog-tags-riscvc-50-27f"
+  },
   "/Learn/blog/tags/weekly-call-82f": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
@@ -106,6 +131,34 @@
     "tag": "tag---learn-blog-tags-weekly-callee-5-a09",
     "listMetadata": "listMetadata---learn-blog-tags-weekly-call-382-bc3"
   },
+  "/Learn/blog/tags/伴學松-2f3": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---learn-blog-056-496"
+    },
+    "sidebar": "sidebar---learn-blog-814-4a9",
+    "items": [
+      {
+        "content": "content---learn-blogd-42-3d6"
+      }
+    ],
+    "tag": "tag---learn-blog-tags-伴學松f-58-467",
+    "listMetadata": "listMetadata---learn-blog-tags-伴學松ae-0-825"
+  },
+  "/Learn/blog/tags/伴學松活動記錄-942": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---learn-blog-056-496"
+    },
+    "sidebar": "sidebar---learn-blog-814-4a9",
+    "items": [
+      {
+        "content": "content---learn-blogd-42-3d6"
+      }
+    ],
+    "tag": "tag---learn-blog-tags-伴學松活動記錄-33-f-616",
+    "listMetadata": "listMetadata---learn-blog-tags-伴學松活動記錄-4-cb-c30"
+  },
   "/Learn/markdown-page-0e0": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
@@ -116,7 +169,7 @@
   "/Learn/docs-35f": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---learn-docs-tags-0-b-6-f37"
+      "plugin": "plugin---learn-docs-0-b-6-47a"
     },
     "versionMetadata": "versionMetadata---learn-docs-935-85c"
   },
