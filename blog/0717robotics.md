@@ -1,3 +1,10 @@
+---
+slug: 0717robotics.md
+title: 0717 robotics
+authors: [Honki]
+tags: [robotics, 伴學松, 伴學松活動記錄]
+---
+
 # 伴伴學：一起來共學與打造機械手臂吧～
 
 ## 簡介
