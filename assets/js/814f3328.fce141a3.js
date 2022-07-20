@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearn=self.webpackChunklearn||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"July 9th Weekly Call","permalink":"/Learn/blog/2022-07-09-weeklyCall.md"}]}')}}]);

@@ -4,37 +4,10 @@
         <title>Accomdemy - Learning Groups Blog</title>
         <link>https://accomdemy.github.io/Learn/Learn/blog</link>
         <description>Accomdemy - Learning Groups Blog</description>
-        <lastBuildDate>Wed, 20 Jul 2022 04:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[從0到有製作自己的CPU！！ 第二周活動記錄 20220712]]></title>
-            <link>https://accomdemy.github.io/Learn/Learn/blog/risc0712.md</link>
-            <guid>risc0712.md</guid>
-            <pubDate>Wed, 20 Jul 2022 04:59:58 GMT</pubDate>
-            <description><![CDATA[[TOC]]]></description>
-            <content:encoded><![CDATA[<p>[TOC]</p><h1>直播紀錄連結</h1><p>{%youtube QpGHIrQOmxU %}</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="出席">出席<a class="hash-link" href="#出席" title="Direct link to heading">​</a></h2><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->KIM_WENG</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->名名</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->chuan</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->bill503084699</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->楓糖</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->謝祥辰</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->黑貓</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->sixkwnp</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Bonki</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->ouo314</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Willwho</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->GYLABA</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->mikuthebest</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->Penquuin</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->葉子</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->painCake</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->EZ4ENCE</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->頂漿汗腺</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->角角</li><li class="task-list-item"><input type="checkbox" checked="" disabled=""> <!-- -->adam chen</li></ul><h1>討論內容</h1><ol><li><a href="https://hackmd.io/bSidfOQaTQWeFRlXJ4VFYA?view" target="_blank" rel="noopener noreferrer">分享ALU單元</a><ol><li>補充計算機組織與結構</li><li>分享運算邏輯單元(ALU)</li><li>如何實現簡單的ALU架構</li></ol></li><li><a href="https://youtu.be/0Errcnc9IMA" target="_blank" rel="noopener noreferrer">分享Vivado基礎操作</a><ol><li>新建專案(Create project)</li><li>匯入Verilog程式碼(Add source)</li><li>匯入Testbench程式碼 </li><li>合成&amp;波形模擬</li></ol></li></ol><h1>本周作業</h1><h2 class="anchor anchorWithStickyNavbar_LWe7" id="討論重點">討論重點<a class="hash-link" href="#討論重點" title="Direct link to heading">​</a></h2><ul><li>ALU的opcode怎麼訂的?
-<!-- -->[name=黑貓]<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">- **根據個人習慣及團隊規則命名**。</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">[name=KIM WENG]</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div></li><li>KIM大那個是隨便選的嗎? 還是有考慮未來要用的模組?
-<!-- -->[name=名名]<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">- 隨便選的，目前還沒有開發板，**爾後可以再去設定裡面修改**。</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">[name=KIM WENG]</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div></li><li>波型圖可放大縮小
-<!-- -->[name=KIM WENG]</li><li>帶不會的人再操作一次
-<!-- -->[name=黑貓]</li><li>遇到這個Warning沒問題
-<img loading="lazy" src="https://i.imgur.com/h7yC2F0.png" class="img_ev3q">[name=Adam Chen, KIM WENG]</li><li>修計組前要學過計概嗎
-<!-- -->[name=Kevin Pan]</li><li>講解CPU結構(ENIAC-&gt;馮紐曼架構-&gt;哈佛架構)
-<!-- -->[name=KIM WENG]</li><li>講解Alu的詳細程式碼
-<!-- -->[name=Kim Weng]</li><li>開始講宣告最初輸入輸出</li><li>alway@語法</li><li>黑貓亂入補充，cpu的Alu有很多正反器，簡稱Rs正反器，然後電路波紋器為何有起起伏伏，就是因為電路有一有零有高電位有電位</li><li>posedge  正緣法 </li><li>negedge 負緣法負緣觸發
-<!-- -->[name=Kim Wen]</li><li>D詳解正反器
-<!-- -->[name=willwho]</li><li>補充posedge
-<!-- -->[name= bridan]</li><li>alway@的寫法
-<!-- -->[name= kim weng]</li><li>多工器寫法</li><li>最終首位
-<!-- -->[name= Kim weng]</li><li>MUX
-<!-- -->[name=名名]<img loading="lazy" src="https://i.imgur.com/Dx7xSaT.png" class="img_ev3q"></li><li>ALU
-<!-- -->[name=名名]<img loading="lazy" src="https://i.imgur.com/g74jgRZ.png" class="img_ev3q"></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="點子--撇步">點子 / 撇步<a class="hash-link" href="#點子--撇步" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="simple-code">Simple code<a class="hash-link" href="#simple-code" title="Direct link to heading">​</a></h2><p>{%gist 76f4ffe07147f2a63743272f5bded4f2 %}
-{%gist fd8df4dbcc70a2627ac20797e423803f %}</p>]]></content:encoded>
-            <category>RISCV</category>
-            <category>伴學松</category>
-            <category>伴學松活動記錄</category>
-        </item>
         <item>
             <title><![CDATA[July 9th Weekly Call]]></title>
             <link>https://accomdemy.github.io/Learn/Learn/blog/2022-07-09-weeklyCall.md</link>
