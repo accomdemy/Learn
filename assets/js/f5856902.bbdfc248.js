@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklearn=self.webpackChunklearn||[]).push([[228],{8550:a=>{a.exports=JSON.parse('{"label":"\u4f34\u5b78\u677e","permalink":"/Learn/blog/tags/\u4f34\u5b78\u677e","allTagsPath":"/Learn/blog/tags","count":2}')}}]);
