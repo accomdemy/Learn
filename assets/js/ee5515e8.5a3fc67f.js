@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearn=self.webpackChunklearn||[]).push([[543],{9194:e=>{e.exports=JSON.parse('{"label":"Weekly call","permalink":"/Learn/blog/tags/weekly-call","allTagsPath":"/Learn/blog/tags","count":3}')}}]);
