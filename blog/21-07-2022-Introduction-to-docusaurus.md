@@ -5,7 +5,7 @@ authors: [Paul]
 tags: [Weekly call, Community]
 ---
 
-# Hi, Everyone - We are documenting the community 🎉
+# Hi, Everyone - We are documenting the community 🎉 - This is a change 
 
 Accomdemy.org is an open source non-profit co-learning community. We are a group of tech enthusiasts have the same vision of using technology to make self-learning fun and not lonely.
 
