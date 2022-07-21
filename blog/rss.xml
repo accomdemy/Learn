@@ -4,7 +4,7 @@
         <title>Accomdemy - Learning Groups Blog</title>
         <link>https://accomdemy.github.io/Learn/Learn/blog</link>
         <description>Accomdemy - Learning Groups Blog</description>
-        <lastBuildDate>Thu, 21 Jul 2022 14:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 12:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[July 21st Learn Call]]></title>
             <link>https://accomdemy.github.io/Learn/Learn/blog/21-07-2022-Introduction-to-docusaurus.md</link>
             <guid>21-07-2022-Introduction-to-docusaurus.md</guid>
-            <pubDate>Thu, 21 Jul 2022 14:40:46 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2022 12:25:12 GMT</pubDate>
             <description><![CDATA[Accomdemy.org is an open source non-profit co-learning community. We are a group of tech enthusiasts have the same vision of using technology to make self-learning fun and not lonely.]]></description>
             <content:encoded><![CDATA[<p>Accomdemy.org is an open source non-profit co-learning community. We are a group of tech enthusiasts have the same vision of using technology to make self-learning fun and not lonely.</p><p>Since COVID-19, pandemic has changed people's life a lot. Co-learning with the community is a proven path of maintaining high learning motivation and even further getting your first software / hardware developer job.</p><p>More than 1,000 people have accompanied each other and learnt knowledge including:</p><p>Embedded AI, Computer Vision, Audio, 3D Printing, PCB Layout, KiCad, MicroPython, IC Design, Verilog, FPGA, Robotics ... and more! Learning all of this knowledge is hard for a single person, but with community it becomes much easier and fun.</p><p>You can read more about Accomdemy or join our discord community right away.</p>]]></content:encoded>
             <category>Weekly call</category>
