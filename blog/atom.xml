@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://accomdemy.github.io/Learn/Learn/blog</id>
     <title>Accomdemy - Learning Groups Blog</title>
-    <updated>2022-07-21T14:35:06.000Z</updated>
+    <updated>2022-07-21T14:40:46.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://accomdemy.github.io/Learn/Learn/blog"/>
     <subtitle>Accomdemy - Learning Groups Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[July 21st Learn Call]]></title>
         <id>21-07-2022-Introduction-to-docusaurus.md</id>
         <link href="https://accomdemy.github.io/Learn/Learn/blog/21-07-2022-Introduction-to-docusaurus.md"/>
-        <updated>2022-07-21T14:35:06.000Z</updated>
+        <updated>2022-07-21T14:40:46.000Z</updated>
         <summary type="html"><![CDATA[Accomdemy.org is an open source non-profit co-learning community. We are a group of tech enthusiasts have the same vision of using technology to make self-learning fun and not lonely.]]></summary>
         <content type="html"><![CDATA[<p>Accomdemy.org is an open source non-profit co-learning community. We are a group of tech enthusiasts have the same vision of using technology to make self-learning fun and not lonely.</p><p>Since COVID-19, pandemic has changed people's life a lot. Co-learning with the community is a proven path of maintaining high learning motivation and even further getting your first software / hardware developer job.</p><p>More than 1,000 people have accompanied each other and learnt knowledge including:</p><p>Embedded AI, Computer Vision, Audio, 3D Printing, PCB Layout, KiCad, MicroPython, IC Design, Verilog, FPGA, Robotics ... and more! Learning all of this knowledge is hard for a single person, but with community it becomes much easier and fun.</p><p>You can read more about Accomdemy or join our discord community right away.</p>]]></content>
         <author>
