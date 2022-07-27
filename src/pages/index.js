@@ -31,7 +31,8 @@ export default function Home() {
   return (
     <Layout
       title={`Learning Groups`}
-      description="Accomdemy is a self-learning community formed by a group of partners from the science and technology circle, the innovation circle, and the education circle. ">
+      description="Accomdemy is a self-learning community formed by a group of partners from the science and technology circle,
+       the innovation circle, and the education circle. ">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

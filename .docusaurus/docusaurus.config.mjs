@@ -6,7 +6,7 @@
 export default {
   "title": "Accomdemy - Learning Groups",
   "tagline": "Accomdemy = Accompany + Academy",
-  "url": "https://accomdemy.github.io/Learn",
+  "url": "https://accomdemy.github.io",
   "baseUrl": "/Learn/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -26,7 +26,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/salman/Documents/Accomdemy/GH/Learn/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/accomdemy/Learn"
         },
         "blog": {
           "showReadingTime": true,
@@ -103,7 +103,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/accomdemy"
+              "href": "https://github.com/accomdemy"
             }
           ]
         }

@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '👬 Community-driven',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       Accomdemy is owned by Community! There are no teachers here, everyone are learners and tutors at the same time. 
+       We want to make everyone enjoy learning just like making good friends.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '🙌 Collaboration ',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      We build together. We value teamwork more than working alone. There are always 
+      unexpected sparks in the process of cooperating with others. That's the beauty of collaboration
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '❤️ Value of network',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        There are lots of senior engineers and working professionals in the community. 
+        More contribution, more reputation and opportunities you will get naturely.
       </>
     ),
   },
@@ -38,9 +38,9 @@ const FeatureList = [
 function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
+      {/* <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
-      </div>
+      </div> */}
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>

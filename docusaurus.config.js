@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Accomdemy - Learning Groups',
   tagline: 'Accomdemy = Accompany + Academy',
-  url: 'https://accomdemy.github.io/Learn',
+  url: 'https://accomdemy.github.io',
   baseUrl: '/Learn/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/accomdemy/Learn',
         },
         blog: {
           showReadingTime: true,
@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/accomdemy',
+                href: 'https://github.com/accomdemy',
               },
             ],
           },
