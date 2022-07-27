@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://accomdemy.github.io/Learn/Learn/blog</id>
+    <id>https://accomdemy.github.io/Learn/blog</id>
     <title>Accomdemy - Learning Groups Blog</title>
     <updated>2022-07-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://accomdemy.github.io/Learn/Learn/blog"/>
+    <link rel="alternate" href="https://accomdemy.github.io/Learn/blog"/>
     <subtitle>Accomdemy - Learning Groups Blog</subtitle>
-    <icon>https://accomdemy.github.io/Learn/Learn/img/favicon.ico</icon>
+    <icon>https://accomdemy.github.io/Learn/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[July 22nd Learn Call]]></title>
         <id>2022-22-09-weeklyCall.md</id>
-        <link href="https://accomdemy.github.io/Learn/Learn/blog/2022-22-09-weeklyCall.md"/>
+        <link href="https://accomdemy.github.io/Learn/blog/2022-22-09-weeklyCall.md"/>
         <updated>2022-07-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Weekly call started with introduction of members.]]></summary>
         <content type="html"><![CDATA[<p>The Weekly call started with introduction of members. </p><p><img loading="lazy" src="https://cdn.discordapp.com/attachments/975360084815253526/1000274174486515762/unknown.png" alt="GroupPhoto" class="img_ev3q"></p><p>We discussed various topics, including Paul's "building nuclear fusion?" thread on the #random channel. And I also found one related video from Youtube randomly <a href="https://www.youtube.com/watch?v=Dp6W7g9no0w" target="_blank" rel="noopener noreferrer">Why Private Billions Are Flowing Into Fusion</a>. It was an excellent documentary, explaining the possibility and needs of fusion energy. </p><p>Then we discussed the Node-RED platform and the ease of making complex with them. Zain shared about 'node' that can do computer vision. It was the "<a href="https://flows.nodered.org/node/node-red-contrib-model-asset-exchange" target="_blank" rel="noopener noreferrer">node-red-contrib-model-asset-exchange</a>"</p><p>Participants </p><ul><li></li><li>Paul </li><li>Muhammed Zain </li><li>Salman Faris </li><li>Vincent</li><li>jacky.dev</li></ul><p>Resource Shared  </p><ul><li><a href="https://www.youtube.com/watch?v=Dp6W7g9no0w" target="_blank" rel="noopener noreferrer">Why Private Billions Are Flowing Into Fusion</a></li><li><a href="https://flows.nodered.org/node/node-red-contrib-model-asset-exchange" target="_blank" rel="noopener noreferrer">node-red-contrib-model-asset-exchange</a></li></ul>]]></content>
@@ -24,7 +24,7 @@
     <entry>
         <title type="html"><![CDATA[July 9th Weekly Call]]></title>
         <id>2022-07-09-weeklyCall.md</id>
-        <link href="https://accomdemy.github.io/Learn/Learn/blog/2022-07-09-weeklyCall.md"/>
+        <link href="https://accomdemy.github.io/Learn/blog/2022-07-09-weeklyCall.md"/>
         <updated>2022-07-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Weekly call started by getting to know the ESP-C3 Dev module from DFRobot, and we had great discussions on LoRa, Thread and Matter protocols.]]></summary>
         <content type="html"><![CDATA[<p>The Weekly call started by getting to know the <a href="https://www.dfrobot.com/product-2566.html" target="_blank" rel="noopener noreferrer">ESP-C3 Dev module from DFRobot</a>, and we had great discussions on LoRa, Thread and Matter protocols. </p><p><img loading="lazy" src="https://pbs.twimg.com/media/FXNM-qtUsAAFWIj?format=jpg&amp;name=large" alt="Group Image" class="img_ev3q"></p><p>Muhammed Zain Shared his <a href="https://zainmfd.github.io/FightFire/" target="_blank" rel="noopener noreferrer">wild fire prediction project</a>, which uses LoRa radio communication methods to transfer the information and <a href="https://www.youtube.com/watch?v=-hIDE8acqhQ&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer">LoCom</a>, That is build for remote communities for emergency communication.

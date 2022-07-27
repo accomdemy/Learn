@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Accomdemy - Learning Groups Blog</title>
-        <link>https://accomdemy.github.io/Learn/Learn/blog</link>
+        <link>https://accomdemy.github.io/Learn/blog</link>
         <description>Accomdemy - Learning Groups Blog</description>
         <lastBuildDate>Fri, 22 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[July 22nd Learn Call]]></title>
-            <link>https://accomdemy.github.io/Learn/Learn/blog/2022-22-09-weeklyCall.md</link>
+            <link>https://accomdemy.github.io/Learn/blog/2022-22-09-weeklyCall.md</link>
             <guid>2022-22-09-weeklyCall.md</guid>
             <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[The Weekly call started with introduction of members.]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[July 9th Weekly Call]]></title>
-            <link>https://accomdemy.github.io/Learn/Learn/blog/2022-07-09-weeklyCall.md</link>
+            <link>https://accomdemy.github.io/Learn/blog/2022-07-09-weeklyCall.md</link>
             <guid>2022-07-09-weeklyCall.md</guid>
             <pubDate>Sat, 09 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[The Weekly call started by getting to know the ESP-C3 Dev module from DFRobot, and we had great discussions on LoRa, Thread and Matter protocols.]]></description>
