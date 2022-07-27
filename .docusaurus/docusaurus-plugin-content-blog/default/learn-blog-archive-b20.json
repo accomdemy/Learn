@@ -1,30 +1,26 @@
 {
   "blogPosts": [
     {
-      "id": "risc0712.md",
+      "id": "2022-22-09-weeklyCall.md",
       "metadata": {
-        "permalink": "/Learn/blog/risc0712.md",
-        "editUrl": "https://github.com/accomdemy/Learn/blog/risc0712.md",
-        "source": "@site/blog/risc0712.md",
-        "title": "從0到有製作自己的CPU！！ 第二周活動記錄 20220712",
-        "description": "[TOC]",
-        "date": "2022-07-12T15:40:17.000Z",
-        "formattedDate": "July 12, 2022",
+        "permalink": "/Learn/blog/2022-22-09-weeklyCall.md",
+        "editUrl": "https://github.com/accomdemy/Learn/blog/2022-07-22-weeklyCall.md",
+        "source": "@site/blog/2022-07-22-weeklyCall.md",
+        "title": "July 22nd Learn Call",
+        "description": "The Weekly call started with introduction of members.",
+        "date": "2022-07-22T00:00:00.000Z",
+        "formattedDate": "July 22, 2022",
         "tags": [
           {
-            "label": "RISCV",
-            "permalink": "/Learn/blog/tags/riscv"
+            "label": "Weekly call",
+            "permalink": "/Learn/blog/tags/weekly-call"
           },
           {
-            "label": "伴學松",
-            "permalink": "/Learn/blog/tags/伴學松"
-          },
-          {
-            "label": "伴學松活動記錄",
-            "permalink": "/Learn/blog/tags/伴學松活動記錄"
+            "label": "Community",
+            "permalink": "/Learn/blog/tags/community"
           }
         ],
-        "readingTime": 2.34,
+        "readingTime": 0.54,
         "truncated": false,
         "authors": [
           {
@@ -36,15 +32,14 @@
           }
         ],
         "frontMatter": {
-          "slug": "risc0712.md",
-          "title": "從0到有製作自己的CPU！！ 第二周活動記錄 20220712",
+          "slug": "2022-22-09-weeklyCall.md",
+          "title": "July 22nd Learn Call",
           "authors": [
             "Salman"
           ],
           "tags": [
-            "RISCV",
-            "伴學松",
-            "伴學松活動記錄"
+            "Weekly call",
+            "Community"
           ]
         },
         "nextItem": {
@@ -52,7 +47,7 @@
           "permalink": "/Learn/blog/2022-07-09-weeklyCall.md"
         }
       },
-      "content": "[TOC]\n\n# 直播紀錄連結\n{%youtube QpGHIrQOmxU %}\n\n## 出席\n- [x] KIM_WENG\n- [x] 名名\n- [x] chuan\n- [x] bill503084699\n- [x] 楓糖\n- [x] 謝祥辰\n- [x] 黑貓\n- [x] sixkwnp\n- [x] Bonki\n- [x] ouo314\n- [x] Willwho\n- [x] GYLABA\n- [x] mikuthebest\n- [x] Penquuin\n- [x] 葉子\n- [ ] painCake\n- [x] EZ4ENCE\n- [x] 頂漿汗腺\n- [x] 角角\n- [x] adam chen\n\n# 討論內容\n1. [分享ALU單元](https://hackmd.io/bSidfOQaTQWeFRlXJ4VFYA?view)\n    1. 補充計算機組織與結構\n    2. 分享運算邏輯單元(ALU)\n    3. 如何實現簡單的ALU架構\n3. [分享Vivado基礎操作](https://youtu.be/0Errcnc9IMA)\n    1. 新建專案(Create project)\n    2. 匯入Verilog程式碼(Add source)\n    3. 匯入Testbench程式碼 \n    4. 合成&波形模擬\n\n# 本周作業\n\n## 討論重點\n- ALU的opcode怎麼訂的?\n[name=黑貓]\n    - **根據個人習慣及團隊規則命名**。\n    [name=KIM WENG]\n- KIM大那個是隨便選的嗎? 還是有考慮未來要用的模組?\n[name=名名]\n    - 隨便選的，目前還沒有開發板，**爾後可以再去設定裡面修改**。\n    [name=KIM WENG]\n- 波型圖可放大縮小\n[name=KIM WENG]\n- 帶不會的人再操作一次\n[name=黑貓]\n- 遇到這個Warning沒問題\n![](https://i.imgur.com/h7yC2F0.png)\n[name=Adam Chen, KIM WENG]\n- 修計組前要學過計概嗎\n[name=Kevin Pan]\n- 講解CPU結構(ENIAC->馮紐曼架構->哈佛架構)\n[name=KIM WENG]\n- 講解Alu的詳細程式碼\n[name=Kim Weng]\n- 開始講宣告最初輸入輸出\n- alway@語法\n- 黑貓亂入補充，cpu的Alu有很多正反器，簡稱Rs正反器，然後電路波紋器為何有起起伏伏，就是因為電路有一有零有高電位有電位\n- posedge  正緣法 \n- negedge 負緣法負緣觸發\n[name=Kim Wen]\n- D詳解正反器\n[name=willwho]\n- 補充posedge\n[name= bridan]\n- alway@的寫法\n[name= kim weng]\n- 多工器寫法\n- 最終首位\n[name= Kim weng]\n- MUX\n[name=名名]\n![](https://i.imgur.com/Dx7xSaT.png)\n- ALU\n[name=名名]\n![](https://i.imgur.com/g74jgRZ.png)\n\n\n## 點子 / 撇步\n\n## Simple code\n{%gist 76f4ffe07147f2a63743272f5bded4f2 %}\n{%gist fd8df4dbcc70a2627ac20797e423803f %}"
+      "content": "The Weekly call started with introduction of members. \n\n![GroupPhoto](https://cdn.discordapp.com/attachments/975360084815253526/1000274174486515762/unknown.png)\n\nWe discussed various topics, including Paul's \"building nuclear fusion?\" thread on the #random channel. And I also found one related video from Youtube randomly [Why Private Billions Are Flowing Into Fusion]( https://www.youtube.com/watch?v=Dp6W7g9no0w). It was an excellent documentary, explaining the possibility and needs of fusion energy. \n\n\nThen we discussed the Node-RED platform and the ease of making complex with them. Zain shared about 'node' that can do computer vision. It was the \"[node-red-contrib-model-asset-exchange](https://flows.nodered.org/node/node-red-contrib-model-asset-exchange)\"\n\nParticipants \n* \n* Paul \n* Muhammed Zain \n* Salman Faris \n* Vincent\n* jacky.dev\n\n\nResource Shared  \n* [Why Private Billions Are Flowing Into Fusion]( https://www.youtube.com/watch?v=Dp6W7g9no0w)\n* [node-red-contrib-model-asset-exchange](https://flows.nodered.org/node/node-red-contrib-model-asset-exchange)"
     },
     {
       "id": "2022-07-09-weeklyCall.md",
@@ -97,8 +92,8 @@
           ]
         },
         "prevItem": {
-          "title": "從0到有製作自己的CPU！！ 第二周活動記錄 20220712",
-          "permalink": "/Learn/blog/risc0712.md"
+          "title": "July 22nd Learn Call",
+          "permalink": "/Learn/blog/2022-22-09-weeklyCall.md"
         }
       },
       "content": "The Weekly call started by getting to know the [ESP-C3 Dev module from DFRobot](https://www.dfrobot.com/product-2566.html), and we had great discussions on LoRa, Thread and Matter protocols. \n\n![Group Image](https://pbs.twimg.com/media/FXNM-qtUsAAFWIj?format=jpg&name=large)\n\nMuhammed Zain Shared his [wild fire prediction project](https://zainmfd.github.io/FightFire/), which uses LoRa radio communication methods to transfer the information and [LoCom](https://www.youtube.com/watch?v=-hIDE8acqhQ&feature=youtu.be), That is build for remote communities for emergency communication. \n![wild fire prediction project](https://zainmfd.github.io/FightFire/img/28.jpg), and Travis shared a project called [One Planet Education](https://www.oneplaneteducation.com/) where the LoCom project can be helpful and shared a similer project called [Off-grid LoRa Communicator](https://hackaday.io/project/183966-off-grid-lora-communicator) that similar to LoCom. \n\nTravis then shared about the [open thread project](https://openthread.io/) and [maker youtube channel](https://www.youtube.com/c/ThatProject), and that led the discussion to [ESP-NOW Protocol](https://www.youtube.com/watch?v=QmvMtgNs9r8)\n\nParticipants \n* Akid \n* Travis \n* Paul \n* Muhammed Zain \n* Salman Faris \n* Vincent\n* Gray Hat Guy LLC\n\nLinks Shared \n* https://www.dfrobot.com/product-2566.html\n* https://zainmfd.github.io/FightFire/   \n* https://www.youtube.com/c/ThatProject  \n* https://github.com/seemoo-lab/openhaystack \n* https://www.haystacktechnologies.com/haystack-for-lora/\n* https://www.youtube.com/watch?v=QmvMtgNs9r8\n* http://oneplaneteducation.com/\n* https://youtu.be/-hIDE8acqhQ \n* https://hackaday.io/project/183966-off-grid-lora-communicator \n* https://www.flux.ai/p"

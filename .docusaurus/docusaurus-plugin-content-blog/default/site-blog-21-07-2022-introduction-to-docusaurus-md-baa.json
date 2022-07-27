@@ -1,0 +1,45 @@
+{
+  "permalink": "/Learn/blog/21-07-2022-Introduction-to-docusaurus.md",
+  "editUrl": "https://github.com/accomdemy/Learn/blog/21-07-2022-Introduction-to-docusaurus.md",
+  "source": "@site/blog/21-07-2022-Introduction-to-docusaurus.md",
+  "title": "July 21st Learn Call",
+  "description": "Hi, Everyone - We are documenting the community 🎉 - This is a change - hello",
+  "date": "2022-07-21T14:31:54.000Z",
+  "formattedDate": "July 21, 2022",
+  "tags": [
+    {
+      "label": "Weekly call",
+      "permalink": "/Learn/blog/tags/weekly-call"
+    },
+    {
+      "label": "Community",
+      "permalink": "/Learn/blog/tags/community"
+    }
+  ],
+  "readingTime": 0.715,
+  "truncated": false,
+  "authors": [
+    {
+      "Name": "Paul",
+      "tittle": "Community Member",
+      "url": "https://github.com/accomdemy/Learn",
+      "imageURL": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGVuc3xlbnwwfHwwfHw%3D&w=1000&q=80",
+      "key": "Paul"
+    }
+  ],
+  "frontMatter": {
+    "slug": "21-07-2022-Introduction-to-docusaurus.md",
+    "title": "July 21st Learn Call",
+    "authors": [
+      "Paul"
+    ],
+    "tags": [
+      "Weekly call",
+      "Community"
+    ]
+  },
+  "nextItem": {
+    "title": "July 9th Weekly Call",
+    "permalink": "/Learn/blog/2022-07-09-weeklyCall.md"
+  }
+}

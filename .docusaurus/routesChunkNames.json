@@ -42,7 +42,7 @@
       "plugin": "plugin---learn-docusaurus-debug-153-8ec"
     }
   },
-  "/Learn/blog-a15": {
+  "/Learn/blog-35a": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---learn-blog-056-496"
@@ -50,7 +50,7 @@
     "sidebar": "sidebar---learn-blog-814-4a9",
     "items": [
       {
-        "content": "content---learn-blogd-42-3d6"
+        "content": "content---learn-bloge-51-4a5"
       },
       {
         "content": "content---learn-blogea-5-89e"
@@ -66,20 +66,20 @@
     "sidebar": "sidebar---learn-blog-814-4a9",
     "content": "content---learn-blog-2022-07-09-weekly-call-md-661-c7d"
   },
+  "/Learn/blog/2022-22-09-weeklyCall.md-68e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---learn-blog-056-496"
+    },
+    "sidebar": "sidebar---learn-blog-814-4a9",
+    "content": "content---learn-blog-2022-22-09-weekly-call-md-9-c-1-ea5"
+  },
   "/Learn/blog/archive-387": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
       "plugin": "plugin---learn-blog-056-496"
     },
     "archive": "archive---learn-blog-archive-0-d-6-bd7"
-  },
-  "/Learn/blog/risc0712.md-d5b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "content": "content---learn-blog-risc-0712-md-9-cb-4cb"
   },
   "/Learn/blog/tags-740": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
@@ -89,13 +89,16 @@
     "sidebar": "sidebar---learn-blog-814-4a9",
     "tags": "tags---learn-blog-tags-3-ba-5f6"
   },
-  "/Learn/blog/tags/community-de1": {
+  "/Learn/blog/tags/community-adc": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---learn-blog-056-496"
     },
     "sidebar": "sidebar---learn-blog-814-4a9",
     "items": [
+      {
+        "content": "content---learn-bloge-51-4a5"
+      },
       {
         "content": "content---learn-blogea-5-89e"
       }
@@ -103,7 +106,7 @@
     "tag": "tag---learn-blog-tags-community-083-ad9",
     "listMetadata": "listMetadata---learn-blog-tags-community-4-be-2d9"
   },
-  "/Learn/blog/tags/riscv-dcc": {
+  "/Learn/blog/tags/weekly-call-7e0": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---learn-blog-056-496"
@@ -111,53 +114,14 @@
     "sidebar": "sidebar---learn-blog-814-4a9",
     "items": [
       {
-        "content": "content---learn-blogd-42-3d6"
-      }
-    ],
-    "tag": "tag---learn-blog-tags-riscvde-4-894",
-    "listMetadata": "listMetadata---learn-blog-tags-riscvc-50-27f"
-  },
-  "/Learn/blog/tags/weekly-call-82f": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "items": [
+        "content": "content---learn-bloge-51-4a5"
+      },
       {
         "content": "content---learn-blogea-5-89e"
       }
     ],
     "tag": "tag---learn-blog-tags-weekly-callee-5-a09",
     "listMetadata": "listMetadata---learn-blog-tags-weekly-call-382-bc3"
-  },
-  "/Learn/blog/tags/伴學松-2f3": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "items": [
-      {
-        "content": "content---learn-blogd-42-3d6"
-      }
-    ],
-    "tag": "tag---learn-blog-tags-伴學松f-58-467",
-    "listMetadata": "listMetadata---learn-blog-tags-伴學松ae-0-825"
-  },
-  "/Learn/blog/tags/伴學松活動記錄-942": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---learn-blog-056-496"
-    },
-    "sidebar": "sidebar---learn-blog-814-4a9",
-    "items": [
-      {
-        "content": "content---learn-blogd-42-3d6"
-      }
-    ],
-    "tag": "tag---learn-blog-tags-伴學松活動記錄-33-f-616",
-    "listMetadata": "listMetadata---learn-blog-tags-伴學松活動記錄-4-cb-c30"
   },
   "/Learn/markdown-page-0e0": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",

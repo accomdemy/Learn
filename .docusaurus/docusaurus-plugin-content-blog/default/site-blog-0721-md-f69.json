@@ -1,11 +1,11 @@
 {
   "permalink": "/Learn/blog/2022-07-09-weeklyCall.md",
-  "editUrl": "https://github.com/accomdemy/Learn/blog/2022-07-09-weeklyCall.md",
-  "source": "@site/blog/2022-07-09-weeklyCall.md",
+  "editUrl": "https://github.com/accomdemy/Learn/blog/0721.md",
+  "source": "@site/blog/0721.md",
   "title": "July 9th Weekly Call",
-  "description": "The Weekly call started by getting to know the ESP-C3 Dev module from DFRobot, and we had great discussions on LoRa, Thread and Matter protocols.",
-  "date": "2022-07-09T00:00:00.000Z",
-  "formattedDate": "July 9, 2022",
+  "description": "介紹",
+  "date": "2022-07-21T12:25:12.000Z",
+  "formattedDate": "July 21, 2022",
   "tags": [
     {
       "label": "Weekly call",
@@ -16,7 +16,7 @@
       "permalink": "/Learn/blog/tags/community"
     }
   ],
-  "readingTime": 0.755,
+  "readingTime": 1.62,
   "truncated": false,
   "authors": [
     {
@@ -41,5 +41,9 @@
   "prevItem": {
     "title": "July 22nd Learn Call",
     "permalink": "/Learn/blog/2022-22-09-weeklyCall.md"
+  },
+  "nextItem": {
+    "title": "July 9th Weekly Call",
+    "permalink": "/Learn/blog/2022-07-09-weeklyCall.md"
   }
 }

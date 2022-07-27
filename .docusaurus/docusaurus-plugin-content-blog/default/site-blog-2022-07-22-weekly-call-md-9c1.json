@@ -1,0 +1,45 @@
+{
+  "permalink": "/Learn/blog/2022-22-09-weeklyCall.md",
+  "editUrl": "https://github.com/accomdemy/Learn/blog/2022-07-22-weeklyCall.md",
+  "source": "@site/blog/2022-07-22-weeklyCall.md",
+  "title": "July 22nd Learn Call",
+  "description": "The Weekly call started with introduction of members.",
+  "date": "2022-07-22T00:00:00.000Z",
+  "formattedDate": "July 22, 2022",
+  "tags": [
+    {
+      "label": "Weekly call",
+      "permalink": "/Learn/blog/tags/weekly-call"
+    },
+    {
+      "label": "Community",
+      "permalink": "/Learn/blog/tags/community"
+    }
+  ],
+  "readingTime": 0.54,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Salman Faris",
+      "title": "Community Member",
+      "url": "https://github.com/salmanfarisvp",
+      "imageURL": "https://avatars.githubusercontent.com/u/11945360?s=400&u=bd1276417a3266f04915764349ef786a953efa17&v=4",
+      "key": "Salman"
+    }
+  ],
+  "frontMatter": {
+    "slug": "2022-22-09-weeklyCall.md",
+    "title": "July 22nd Learn Call",
+    "authors": [
+      "Salman"
+    ],
+    "tags": [
+      "Weekly call",
+      "Community"
+    ]
+  },
+  "nextItem": {
+    "title": "July 9th Weekly Call",
+    "permalink": "/Learn/blog/2022-07-09-weeklyCall.md"
+  }
+}
