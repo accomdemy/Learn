@@ -23,7 +23,7 @@ Participants
 * Vincent
 * Gray Hat Guy LLC
 
-Links Shared 
+Resource Shared 
 * https://www.dfrobot.com/product-2566.html
 * https://zainmfd.github.io/FightFire/   
 * https://www.youtube.com/c/ThatProject  
