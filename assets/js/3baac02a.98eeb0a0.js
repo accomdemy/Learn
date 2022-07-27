@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearn=self.webpackChunklearn||[]).push([[307],{7845:e=>{e.exports=JSON.parse('[{"label":"Weekly call","permalink":"/Learn/blog/tags/weekly-call","count":2},{"label":"Community","permalink":"/Learn/blog/tags/community","count":2}]')}}]);
