@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Week 2 : TinyML- 0x01
+# Week 2 : TinyML- 0x02
 
 
 * 1 x Dev Board (TBD)

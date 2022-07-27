@@ -16,31 +16,37 @@
       },
       {
         "type": "link",
-        "label": "Week 1 : TinyML- 0x00",
+        "label": "Week 0 : TinyML- 0x00",
+        "href": "/Learn/docs/weekZero",
+        "docId": "weekZero"
+      },
+      {
+        "type": "link",
+        "label": "Week 1 : TinyML- 0x01",
         "href": "/Learn/docs/weekOne",
         "docId": "weekOne"
       },
       {
         "type": "link",
-        "label": "Week 2 : TinyML- 0x01",
+        "label": "Week 2 : TinyML- 0x02",
         "href": "/Learn/docs/weekTwo",
         "docId": "weekTwo"
       },
       {
         "type": "link",
-        "label": "Week 3 : TinyML- 0x02",
+        "label": "Week 3 : TinyML- 0x03",
         "href": "/Learn/docs/weekThree",
         "docId": "weekThree"
       },
       {
         "type": "link",
-        "label": "Week 4 : TinyML- 0x03",
+        "label": "Week 4 : TinyML- 0x04",
         "href": "/Learn/docs/weekFour",
         "docId": "weekFour"
       },
       {
         "type": "link",
-        "label": "Week 5 : TinyML- 0x04",
+        "label": "Week 5 : TinyML- 0x05",
         "href": "/Learn/docs/weekFive",
         "docId": "weekFive"
       }
@@ -55,32 +61,38 @@
     },
     "weekFive": {
       "id": "weekFive",
-      "title": "Week 5 : TinyML- 0x04",
+      "title": "Week 5 : TinyML- 0x05",
       "description": "TBD",
       "sidebar": "tutorialSidebar"
     },
     "weekFour": {
       "id": "weekFour",
-      "title": "Week 4 : TinyML- 0x03",
+      "title": "Week 4 : TinyML- 0x04",
       "description": "In the 4th week, the participants will work on a project to process the speech and based on that control the LEDs.",
       "sidebar": "tutorialSidebar"
     },
     "weekOne": {
       "id": "weekOne",
-      "title": "Week 1 : TinyML- 0x00",
+      "title": "Week 1 : TinyML- 0x01",
       "description": "In the first week, we will go to take a look at the tinyML and its applications.  Introduction Slide",
       "sidebar": "tutorialSidebar"
     },
     "weekThree": {
       "id": "weekThree",
-      "title": "Week 3 : TinyML- 0x02",
+      "title": "Week 3 : TinyML- 0x03",
       "description": "Required Hardware",
       "sidebar": "tutorialSidebar"
     },
     "weekTwo": {
       "id": "weekTwo",
-      "title": "Week 2 : TinyML- 0x01",
+      "title": "Week 2 : TinyML- 0x02",
       "description": "* 1 x Dev Board (TBD)",
+      "sidebar": "tutorialSidebar"
+    },
+    "weekZero": {
+      "id": "weekZero",
+      "title": "Week 0 : TinyML- 0x00",
+      "description": "Table Of Contents",
       "sidebar": "tutorialSidebar"
     }
   }

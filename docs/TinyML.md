@@ -25,11 +25,12 @@ That is around a thousand times less power consumption. This low power consumpti
 
 This web page will manage all the learning material and resources.
 
-* Week 1 : TinyML- 0x00
-* Week 2 : TinyML- 0x01
-* Week 3 : TinyML- 0x02
-* Week 4 : TinyML- 0x03
-* Week 5 : TinyML- 0x04
+* [Week 0: TinyML - 0x00](weekZero.md)
+* [Week 1 : TinyML- 0x01](weekOne.md)
+* [Week 2 : TinyML- 0x02](weekTwo.md)
+* [Week 3 : TinyML- 0x03](weekThree.md)
+* [Week 4 : TinyML- 0x04](weekFour.md)
+* [Week 5 : TinyML- 0x05](weekFive.md)
 
 
 Resource Link 🌐

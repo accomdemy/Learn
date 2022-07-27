@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/Learn/docs',
-    component: ComponentCreator('/Learn/docs', '35f'),
+    component: ComponentCreator('/Learn/docs', 'b6e'),
     routes: [
       {
         path: '/Learn/docs/TinyML',
@@ -114,6 +114,12 @@ export default [
       {
         path: '/Learn/docs/weekTwo',
         component: ComponentCreator('/Learn/docs/weekTwo', '05e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Learn/docs/weekZero',
+        component: ComponentCreator('/Learn/docs/weekZero', '728'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

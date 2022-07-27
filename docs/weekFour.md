@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
-# Week 4 : TinyML- 0x03
+# Week 4 : TinyML- 0x04
 
 In the 4th week, the participants will work on a project to process the speech and based on that control the LEDs. 
 

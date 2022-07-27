@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Week 1 : TinyML- 0x00
+# Week 1 : TinyML- 0x01
 
 In the first week, we will go to take a look at the tinyML and its applications.  [Introduction Slide](https://docs.google.com/presentation/d/1FDYeaRdats0U0-jgMmM9BICJGdZRwG97qw5vBjBPQe0/edit#slide=id.g120b0cda2e7_0_199)
 

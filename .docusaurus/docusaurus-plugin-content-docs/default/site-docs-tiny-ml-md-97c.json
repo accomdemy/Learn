@@ -19,7 +19,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Week 1 : TinyML- 0x00",
-    "permalink": "/Learn/docs/weekOne"
+    "title": "Week 0 : TinyML- 0x00",
+    "permalink": "/Learn/docs/weekZero"
   }
 }

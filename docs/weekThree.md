@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
-# Week 3 : TinyML- 0x02
+# Week 3 : TinyML- 0x03
 
 ## Required Hardware 
 * 1 x Dev Board (TBD)

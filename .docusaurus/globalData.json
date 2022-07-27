@@ -39,6 +39,11 @@
               "id": "weekTwo",
               "path": "/Learn/docs/weekTwo",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "weekZero",
+              "path": "/Learn/docs/weekZero",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
