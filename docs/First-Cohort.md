@@ -13,3 +13,6 @@ Problem Statement: I need a application to monitor me when I study and makr sure
 
 Name:  Sidik Al Amini
 Problem Statement: I want to create voice activated music player
+
+Name: Andri Setyabudi
+Problem Statement: I want to create motion path detector
