@@ -130,12 +130,16 @@
     },
     "content": "content---learn-markdown-page-393-5f0"
   },
-  "/Learn/docs-b6e": {
+  "/Learn/docs-ac5": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---learn-docs-0-b-6-47a"
     },
     "versionMetadata": "versionMetadata---learn-docs-935-85c"
+  },
+  "/Learn/docs/First Cohort July 2022-78d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-docs-first-cohert-44-e-957"
   },
   "/Learn/docs/TinyML-010": {
     "__comp": "__comp---theme-doc-item-178-a40",

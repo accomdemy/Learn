@@ -79,8 +79,14 @@ export default [
   },
   {
     path: '/Learn/docs',
-    component: ComponentCreator('/Learn/docs', 'b6e'),
+    component: ComponentCreator('/Learn/docs', 'ac5'),
     routes: [
+      {
+        path: '/Learn/docs/First Cohort July 2022',
+        component: ComponentCreator('/Learn/docs/First Cohort July 2022', '78d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/Learn/docs/TinyML',
         component: ComponentCreator('/Learn/docs/TinyML', '010'),

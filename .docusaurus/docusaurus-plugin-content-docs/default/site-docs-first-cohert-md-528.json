@@ -1,0 +1,25 @@
+{
+  "unversionedId": "First Cohert",
+  "id": "First Cohert",
+  "title": "First Cohert",
+  "description": "First Cohert 2022 July - August 2022",
+  "source": "@site/docs/First-Cohert.md",
+  "sourceDirName": ".",
+  "slug": "/First Cohert",
+  "permalink": "/Learn/docs/First Cohert",
+  "draft": false,
+  "editUrl": "https://github.com/accomdemy/Learn/docs/First-Cohert.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "description": "First Cohert 2022 July - August 2022",
+    "id": "First Cohert"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Week 5 : TinyML- 0x05",
+    "permalink": "/Learn/docs/weekFive"
+  }
+}

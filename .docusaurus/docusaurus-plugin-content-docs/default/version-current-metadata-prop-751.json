@@ -49,10 +49,22 @@
         "label": "Week 5 : TinyML- 0x05",
         "href": "/Learn/docs/weekFive",
         "docId": "weekFive"
+      },
+      {
+        "type": "link",
+        "label": "First Cohort July 2022",
+        "href": "/Learn/docs/First Cohort July 2022",
+        "docId": "First Cohort July 2022"
       }
     ]
   },
   "docs": {
+    "First Cohort July 2022": {
+      "id": "First Cohort July 2022",
+      "title": "First Cohort July 2022",
+      "description": "First Cohort 2022 July - August 2022",
+      "sidebar": "tutorialSidebar"
+    },
     "TinyML": {
       "id": "TinyML",
       "title": "Introduction to Learing Session 😎",

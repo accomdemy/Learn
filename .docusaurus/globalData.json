@@ -11,6 +11,11 @@
           "mainDocId": "TinyML",
           "docs": [
             {
+              "id": "First Cohort July 2022",
+              "path": "/Learn/docs/First Cohort July 2022",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "TinyML",
               "path": "/Learn/docs/TinyML",
               "sidebar": "tutorialSidebar"
