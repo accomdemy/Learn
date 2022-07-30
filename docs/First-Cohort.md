@@ -11,5 +11,5 @@ Name: Lydia
 Problem Statement: I need a application to monitor me when I study and makr sure I'm not playing the phone.
 
 
-Name:  Sidik Al amini
-Peoblem Statement: I want to create voice activated music player
+Name:  Sidik Al Amini
+Problem Statement: I want to create voice activated music player
