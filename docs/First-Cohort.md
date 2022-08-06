@@ -16,3 +16,6 @@ Problem Statement: I want to create voice activated music player
 
 Name: Andri Setyabudi
 Problem Statement: I want to create motion path detector
+
+Name: Devadut S Balan
+Problem Statement: I want to detect wake word for my home assistant
