@@ -17,5 +17,9 @@ Problem Statement: I want to create voice activated music player
 Name: Andri Setyabudi
 Problem Statement: I want to create motion path detector
 
+
 Name: Pradeep 
 Problem Statement: I need to make a system that can figure out the smoke incase of forest fire. 
+
+Name: Devadut S Balan
+Problem Statement: I want to detect wake word for my home assistant
