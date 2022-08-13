@@ -8,7 +8,8 @@ Name: Salman Faris
 Problem Statement: I need feed my cat while I'm not in the home and when cat needed. 
 
 Name: Lydia
-Problem Statement: I need a application to monitor me when I study and makr sure I'm not playing the phone.
+Problem Statement: I need a application to monitor me when I study and make sure I'm not playing the phone.
+Solution: An application may monitor me through the webcam or camera to see what I'm doing on my phone within a certain time frame set. My application will alert me with the warning.
 
 
 Name:  Sidik Al Amini
