@@ -26,3 +26,6 @@ Problem Statement: I want to detect wake word for my home assistant
 
 Name: Fish / Liam
 Problem statement: I want to track my route to work and find out what is the most efficient time and route to travel each day.
+
+Name: Anand S
+Problem Statement: I want to implement a gesture/tap detector on my android device.
